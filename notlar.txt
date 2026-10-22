@@ -3,3 +3,11 @@ cp - bir dosyanın kopyasını oluşturur
 mv - dosyayı başka yere taşır ya da yeniden adlandırır
 rm - dosyayı siler
 echo - verilen metni ekrana yazar
+
+Hafta 2 - Git Komutları
+
+1. git branch - Branch'leri listeler veya yeni bir branch oluşturur.
+2. git switch - Başka bir branch'e geçiş yapar, -c ile yeni branch açıp geçer.
+3. git diff - Çalışma klasörü ile staging arasındaki farkı gösterir.
+4. git diff --staged - Staging'e alınan değişiklikleri son commit ile karşılaştırır.
+5. git push -u origin <branch> - Commit'leri GitHub'a gönderir ve branch'i uzak branch'e bağlar.
