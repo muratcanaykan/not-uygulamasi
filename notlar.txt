@@ -1,0 +1,5 @@
+touch - boş bir dosya oluşturur
+cp - bir dosyanın kopyasını oluşturur
+mv - dosyayı başka yere taşır ya da yeniden adlandırır
+rm - dosyayı siler
+echo - verilen metni ekrana yazar
