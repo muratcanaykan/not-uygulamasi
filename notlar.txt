@@ -11,3 +11,5 @@ Hafta 2 - Git Komutları
 3. git diff - Çalışma klasörü ile staging arasındaki farkı gösterir.
 4. git diff --staged - Staging'e alınan değişiklikleri son commit ile karşılaştırır.
 5. git push -u origin <branch> - Commit'leri GitHub'a gönderir ve branch'i uzak branch'e bağlar.
+
+hafta 2 notları pull request ile gözden geçirilecek
